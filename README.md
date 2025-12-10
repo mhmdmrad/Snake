@@ -1,4 +1,4 @@
-# DONE
+
 # Snake Game
 
 A simple Snake game built using Python's `turtle` module.
